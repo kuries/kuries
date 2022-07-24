@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Binesh.</h1> 
 <h3 align="center">A random stranger in the internet who is "kuries" about everything :)</h3> <br></br>
 
-- I'm currently working on the 3rd Party Authorized Room Membership project as part of GSoC'22
+- I'm currently working on the [3rd Party Authorized Room Membership](https://github.com/MatrixDoctors/matrix-cerberus) project as part of GSoC'22.
 
 - Ask me about **Python**, **Web**, **ML** or just **Life** in general.
 
@@ -9,7 +9,7 @@
 <br></br>
 
 <p>
-  <img src = "https://github-readme-stats.vercel.app/api?username=kuries&show_icons=true&theme=github_dark&line_height=27&count_private=true&show_icons=true&include_all_commits=true">
+  <img src = "https://github-readme-stats.vercel.app/api?username=kuries&show_icons=true&theme=github_dark&line_height=27&count_private=true&show_icons=true">
 </p>
 
 <p>
