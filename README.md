@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Binesh.</h1> 
-<h4 align="center">A random stranger in the internet who is "kuries" about everything :)</h3>
+<h3 align="center">A random stranger in the internet who is "kuries" about everything :)</h3>
 
 - I'm currently working on the 3rd Party Authorized Room Membership project as part of GSoC'22
 
