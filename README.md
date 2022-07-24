@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Binesh.</h1> 
+<h4 align="center">A random stranger in the internet who is "kuries" about everything :)</h3>
+
+- I'm currently working on the 3rd Party Authorized Room Membership project as part of GSoC'22
+
+- Ask me about **Python**, **Web**, **ML** or just **Life** in general.
+
+- How to reach me: <a href="mailto:bineshmunukurthi@gmail.org">Mail</a>, [Twitter](https://twitter.com/Bmunukur), [Linkedin](https://www.linkedin.com/in/binesh-munukurthi/)
 
 <!--
 **kuries/kuries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
